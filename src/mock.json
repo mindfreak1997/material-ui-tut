@@ -1,0 +1,26 @@
+[
+    {
+        "title":"yoshi's birthday bash" ,
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to" ,
+        "category":"work" ,
+        "id":1
+    },
+    {
+        "title":"complete my ninja training" ,
+        "details": " It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "category":"remainders" ,
+        "id":2
+    },
+    {
+        "title":"Order a Pizza!" ,
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "category":"Todos" ,
+        "id":3
+    },
+    {
+        "title":"Mario's birthday present" ,
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "category":"work" ,
+        "id":4
+    }
+]
